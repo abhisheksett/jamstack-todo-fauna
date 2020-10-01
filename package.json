@@ -1,0 +1,18 @@
+{
+  "name": "jamstack-fauna",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Abhishek Sett <aabhishek.sett@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "axios": "^0.20.0",
+    "dotenv": "^8.2.0",
+    "gatsby": "^2.24.67",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "scripts": {
+    "develop": "gatsby develop"
+  }
+}
